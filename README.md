@@ -4,6 +4,30 @@ Does an AI memory system remember when something was said, not just what?
 
 15 synthetic customers, 360 questions covering corrections, dates, order, counting, and questions with no answer. Predictions were recorded before each corresponding run, including the ones that turned out wrong. Raw model answers and scoring code let you re-score the results or run the same questions on your own memory system.
 
+## Test your own memory system
+
+You need Node.js 22 or newer. No install step: `npx` fetches what it needs.
+
+1. **Check the harness (free).** This uses an adapter that always answers "unknown".
+   ```sh
+   npx tsx quickstart/run.mts
+   npx tsx quickstart/score.mts quickstart/answers-echo-*.jsonl
+   ```
+2. **Connect your system.** Edit [`quickstart/adapter.mts`](quickstart/adapter.mts). You write three functions: `reset`, `ingest` (called once per session, in date order; every message has a timestamp) and `answer` (returns plain text, or "unknown").
+3. **Estimate, then run.**
+   ```sh
+   ADAPTER=mine npx tsx quickstart/run.mts --dry-run
+   ADAPTER=mine npx tsx quickstart/run.mts
+   npx tsx quickstart/score.mts quickstart/answers-mine-*.jsonl
+   ```
+   Each question is asked three times and scored by majority. Use `--customers A,B` to try a small subset first.
+
+For a reference point, `ADAPTER=full-transcript` sends the whole conversation with every question through any OpenAI-compatible endpoint (`OPENAI_API_KEY`, `OPENAI_BASE_URL`, `MODEL`). The dry run prints its estimated cost (about $0.71 with gpt-4.1-mini).
+
+The scorer prints the three counting questions separately. Two of them ("how many trainers, counting the current one" and "how many clubs, courses, trips and groups") are ambiguous and drive most counting errors; read the counting row with that in mind.
+
+To share a score, open a [results issue](../../issues/new?template=submit-results.yml). Please do not rerun until you get a better number.
+
 The two tables measure different things. The memory comparison uses the same answer model for each store. The Belcore API test measures the production API end to end. Each score is a majority vote over three answers per question.
 
 ## Memory comparison

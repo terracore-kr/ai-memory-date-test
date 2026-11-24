@@ -1,0 +1,53 @@
+name: Submit results
+description: Share a score from running the test on your own memory system.
+title: "[results] <system name and version>"
+labels: ["results"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for running the test. Please paste the table printed by `quickstart/score.mts`.
+        Results are shown as submitted; they are not verified unless the answers file is attached.
+  - type: input
+    id: system
+    attributes:
+      label: Memory system and version
+      placeholder: e.g. my-memory 0.3.1 (self-hosted)
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Answer model
+      placeholder: e.g. gpt-4.1-mini, temperature 0
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: How the adapter works
+      description: How sessions were stored, whether message timestamps were used, how many records were retrieved per question.
+    validations:
+      required: true
+  - type: textarea
+    id: scores
+    attributes:
+      label: Score table
+      description: Output of `npx tsx quickstart/score.mts <answers.jsonl>`, including the counting-by-question lines and the sha256.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: answers
+    attributes:
+      label: Answers file (optional but recommended)
+      description: Attach the answers .jsonl so others can re-score it.
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules
+      options:
+        - label: I ran each question the number of times shown and did not rerun to pick a better score.
+          required: true
+        - label: I did not change the questions, the conversations or the scorer.
+          required: true
