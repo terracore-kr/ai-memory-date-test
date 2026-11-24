@@ -1,0 +1,13 @@
+{
+ "pass": true,
+ "checks": {
+  "allAnswered": true,
+  "longTerm": true,
+  "notDegraded": true,
+  "sameModel": true,
+  "usage": true
+ },
+ "longTermCount": 24,
+ "directiveActiveCount": 0,
+ "pilotSha": "cafe5d4db15586d5174e9dea6df725413c93f11b59100095eba0ac874e338148"
+}

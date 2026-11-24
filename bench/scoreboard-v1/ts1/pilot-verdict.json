@@ -1,0 +1,18 @@
+{
+ "pass": true,
+ "rule": "ts1 PREREG 6절 21:32: 5xx 1건 이하 허용, 정상 응답만 조건 검사",
+ "probeOk": true,
+ "checks": {
+  "allRequested": true,
+  "atMostOneServerError": true,
+  "answered": true,
+  "longTerm": true,
+  "notDegraded": true,
+  "sameModel": true,
+  "usage": true,
+  "noRedactedDate": true
+ },
+ "serverErrors": 1,
+ "longTermCount": 23,
+ "pilotSha": "673e13d5c5a089341b69829554aec1eccb4bd3ef278c7007509e268fd58007e7"
+}

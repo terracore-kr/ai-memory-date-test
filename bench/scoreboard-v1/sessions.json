@@ -1,0 +1,5102 @@
+[
+ {
+  "customer": "A",
+  "name": "Dana",
+  "sessions": [
+   {
+    "date": "2026-01-12",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-12."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Quillon."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Brindlemoor."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Tamarisk Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-03",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-03."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Harrowick."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Tuesdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Marlowe swim club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-04",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-04."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Marrock."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Ironbark."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Corwin."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a pottery course at Dunmere."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-21",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-21."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Castellane."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Fennimore and Sorrel."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Fenrow run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-09",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-09."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Ostermead."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Dee in chat, but use Dana on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Wexcombe Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a hiking trip to Calloway Ridge."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-15",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-15."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Greywether."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Thursdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Ysolde."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Kestrelgate run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Pellam choir today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "B",
+  "name": "Luis",
+  "sessions": [
+   {
+    "date": "2026-01-20",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-20."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Brannoch."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Halvergate."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Cardew Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-17",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-17."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Eskerby."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Mondays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Orrin cycling group today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-25",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-25."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Tolliver."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Flintlock."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Aldous."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a woodwork class at Thackley."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-06",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-06."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Rookhope."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Pimlico and Hazeldine."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Withybrook run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-23",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-23."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Wintringham."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Lu in chat, but use Luis on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Pennistone Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a fishing weekend at Lake Morwen."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-08-11",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-08-11."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Sandalwood."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Fridays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Renske."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Sablemere run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Hesketh book circle today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "C",
+  "name": "Mina",
+  "sessions": [
+   {
+    "date": "2026-02-02",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-02."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Thistlewick."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Garrowby."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Hollin Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-26",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-26."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Luddenmoor."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Wednesdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Vasey rowing crew today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-08",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-08."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Garrick."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Stonecrop."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Bertrand."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a weaving workshop at Kirkby."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-19",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-19."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Melchester."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Ludovic and Primrose."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Corbenic run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-01",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-01."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Ainsdale."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Mimi in chat, but use Mina on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Averill Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a camping trip to Elder Fell."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-08-27",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-08-27."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Copperhill."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Saturdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Liesel."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Dunholm run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Stannard chess club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "D",
+  "name": "Priya",
+  "sessions": [
+   {
+    "date": "2026-01-05",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-05."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Brackwater."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Corvantis."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Ashgrove Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-01-25",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-25."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Barrowden."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Mondays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Alder swimming club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-18",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-18."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Quarrick."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Granitefold."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Alaric."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a pottery course at Moorcroft."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-30",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-30."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Oxenhope."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Dimbleby and Pargeter."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Ambermoor run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-29",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-29."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Ormskirk."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Pree in chat, but use Priya on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Marigold Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a hiking trip to Aysgarth."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-03",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-03."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Sapphirelane."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Thursdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Magnus."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Mardale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Nantwich choir today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "E",
+  "name": "Tomas",
+  "sessions": [
+   {
+    "date": "2026-01-09",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-09."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Fenwold."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Delmara."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Beckett Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-01-30",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-30."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Carnforth."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Tuesdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Brindle cycling group today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-26",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-26."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Rushmere."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Hollyforge."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Benedikt."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a woodwork class at Nunthorpe."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-08",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-08."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Pemberton."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Elsworth and Quenby."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Bellhaven run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-13",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-13."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Pickering."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Tom in chat, but use Tomas on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Nightingale Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a fishing weekend to Blencathra."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-24",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-24."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Topazwell."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Fridays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Noemi."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Nidderdale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Otterburn book circle today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "F",
+  "name": "Ines",
+  "sessions": [
+   {
+    "date": "2026-01-13",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-13."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Gristle."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Elsinore."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Copperfield Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-04",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-04."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Dunsfold."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Wednesdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Cresswell rowing crew today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-06",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-06."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Saltash."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Irongate."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Cosima."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a weaving workshop at Overton."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-17",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-17."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Quillfeather."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Farnaby and Rosamund."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Cragside run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-27",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-27."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Quorndon."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Nessa in chat, but use Ines on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Orchard Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a camping trip to Coniston."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-02",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-02."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Umberfield."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Saturdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Octavia."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Ossett run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Penrith chess club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "G",
+  "name": "Rafael",
+  "sessions": [
+   {
+    "date": "2026-01-17",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-17."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Halloran."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Falkreth."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Dewberry Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-09",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-09."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Embleton."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Thursdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Dovecote running club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-07",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-07."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Tamberlane."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Jasperline."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Desmond."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a painting course at Polperro."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-19",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-19."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Ravenglass."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Gilroy and Sedgwick."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Duncombe run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-23",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-23."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Rothbury."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Rafa in chat, but use Rafael on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Primrose Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a sailing trip to Dentdale."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-05",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-05."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Vermeil."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Sundays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Perrin."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Pateley run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Quantock film society today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "H",
+  "name": "Keiko",
+  "sessions": [
+   {
+    "date": "2026-01-21",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-21."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Ivorydale."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Galloway."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Elmhurst Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-14",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-14."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Fairlight."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Fridays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Eastwood swimming club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-15",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-15."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Umbridge."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Kestrelpeak."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Elowen."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a pottery course at Quarndon."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-28",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-28."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Stonehaven."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Hartigan and Thurlow."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Eskdale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-06",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-06."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Sedbergh."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Kei in chat, but use Keiko on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Quince Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a hiking trip to Ennerdale."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-13",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-13."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Willowbank."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Mondays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Quentin."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Quernmore run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Ribblehead choir today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "I",
+  "name": "Oskar",
+  "sessions": [
+   {
+    "date": "2026-01-25",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-25."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Juniperon."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Hestercombe."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Foxglove Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-14",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-14."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Grassington."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Saturdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Fallowfield cycling group today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-11",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-11."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Vallory."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Limeworks."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Florian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a woodwork class at Redbrook."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-25",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-25."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Thornbury."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Ingleby and Underhill."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Farndale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-28",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-28."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Tenbury."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Ozzy in chat, but use Oskar on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Rowan Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a fishing weekend to Fleetwith."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-11",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-11."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Xanthos."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Tuesdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Rosalind."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Rosedale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Sheringham book circle today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "J",
+  "name": "Leila",
+  "sessions": [
+   {
+    "date": "2026-01-29",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-01-29."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Kettlebeck."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Ironmonger."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Gorsefield Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-19",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-19."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Hawkshead."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Sundays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Glenridding rowing crew today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-19",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-19."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Wendhurst."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Marblehall."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Gideon."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a weaving workshop at Shalford."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-04",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-04."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Uffington."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Jessamy and Verity."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Glaisdale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-11",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-11."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Ulverston."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Lee in chat, but use Leila on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Sycamore Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a camping trip to Grisedale."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-19",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-19."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Yewtree."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Wednesdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Severin."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Swaledale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Thirsk chess club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "K",
+  "name": "Anders",
+  "sessions": [
+   {
+    "date": "2026-02-02",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-02."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Larkspurr."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Jarrowfield."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Heathcote Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-02-24",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-24."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Ilkley."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Mondays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Harrowgate running club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-20",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-20."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Yarrowby."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Nickelbay."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Henrike."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a painting course at Tilbury."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-06",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-06."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Vexley."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Kilbride and Wycliffe."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Hartside run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-07",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-07."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Wetherby."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Andy in chat, but use Anders on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Teasel Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a sailing trip to Helvellyn."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-22",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-22."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Zincworks."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Thursdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Theodora."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Troutbeck run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Uppingham film society today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "L",
+  "name": "Sunita",
+  "sessions": [
+   {
+    "date": "2026-02-06",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-06."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Mossgrave."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Kingsmead."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Ivyleaf Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-01",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-01."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Kirkwhelpington."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Tuesdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Inchbrook swimming club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-28",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-28."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Zennor."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Onyxridge."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Isolde."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a pottery course at Upwell."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-15",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-15."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Whitcombe."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Lockyer and Yelland."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Ingleborough run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-21",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-21."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Yarmouth."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Sunny in chat, but use Sunita on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Upland Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a hiking trip to Ingleton."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-30",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-30."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Amberline."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Fridays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Ulric."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Ullswater run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Ventnor choir today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "M",
+  "name": "Bruno",
+  "sessions": [
+   {
+    "date": "2026-02-10",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-10."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Nettlecombe."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Lowestoft."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Juniper Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-06",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-06."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Lindisfarne."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Wednesdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Jesmond cycling group today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-05",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-05."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Ashcombe."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Pewterhouse."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Jasper."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a woodwork class at Vowchurch."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-15",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-15."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Yeadon."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Merriweather and Zephyrine."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Jervaulx run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-15",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-15."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Zeals."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Bru in chat, but use Bruno on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Verbena Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a fishing weekend to Kentmere."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-31",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-31."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Basaltway."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Saturdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Valentina."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Wensleydale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Whitstable book circle today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "N",
+  "name": "Yara",
+  "sessions": [
+   {
+    "date": "2026-02-14",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-14."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Oakhurst."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Marchbank."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Kingfisher Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-06",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-06."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Malham."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Thursdays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Kelsall rowing crew today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-01",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-01."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Birchley."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Quartzside."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Katrin."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a weaving workshop at Wickham."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-12",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-12."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Zelmont."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Norbury and Aldridge."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Kildale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-17",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-17."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Alnmouth."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Yaya in chat, but use Yara on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Wisteria Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a camping trip to Loweswater."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-07-27",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-07-27."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Cobaltyard."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Sundays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Wilhelmina."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Yewdale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Yatton chess club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "customer": "O",
+  "name": "Callum",
+  "sessions": [
+   {
+    "date": "2026-02-18",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-02-18."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My dog is called Pendragon."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "I work at Northcote."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Laburnum Street."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-03-11",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-03-11."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I grew up in a town called Nethercott."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "When I fly for work I want an aisle seat, but on holiday flights I want the window."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Fridays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Lindley running club today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-04-09",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-04-09."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My brother's dog is called Coldridge."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "The gym I go to is called Rubystone."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Send me reminders only on weekdays, never at the weekend."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Leopold."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I signed up for a painting course at Yelverton."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     }
+    ]
+   },
+   {
+    "date": "2026-05-21",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-05-21."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My partner works at Ambleside."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I also have two cats, Ottoline and Blandford."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I eat meat at home, but when I'm travelling I eat vegetarian."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Langdale run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-06-20",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-06-20."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My mother grew up in Bampton."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Thanks, that helps."
+     },
+     {
+      "role": "user",
+      "content": "Call me Cal in chat, but use Callum on anything formal."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I live on Yarrow Avenue."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "The weather has been rough for training."
+     },
+     {
+      "role": "user",
+      "content": "I've booked a sailing trip to Mungrisdale."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     }
+    ]
+   },
+   {
+    "date": "2026-08-06",
+    "messages": [
+     {
+      "role": "user",
+      "content": "Today's date is 2026-08-06."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My sister goes to a gym called Dolomite."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     },
+     {
+      "role": "user",
+      "content": "Book my sessions on Mondays."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "My trainer is Xavier."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I slept badly last night."
+     },
+     {
+      "role": "user",
+      "content": "I'm training for the Zetland run."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "I joined the Zennor film society today."
+     },
+     {
+      "role": "assistant",
+      "content": "Noted."
+     },
+     {
+      "role": "user",
+      "content": "Busy week, but I'm keeping up."
+     }
+    ]
+   }
+  ]
+ }
+]
