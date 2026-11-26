@@ -4,6 +4,8 @@ Does an AI memory system remember when something was said, not just what?
 
 15 synthetic customers, 360 questions covering corrections, dates, order, counting, and questions with no answer. Predictions were recorded before each corresponding run, including the ones that turned out wrong. Raw model answers and scoring code let you re-score the results or run the same questions on your own memory system.
 
+**What this is not.** It is not a ranking of memory products. It is not an independent evaluation: the test was written and run by the Belcore team, and Belcore is one of the systems tested. A passing score is not a security or compliance result.
+
 ## Test your own memory system
 
 You need Node.js 22 or newer. No install step: `npx` fetches what it needs.
@@ -52,7 +54,7 @@ These are results from one memory build per system, with a shared answer model a
 | Days between | 0/30 | 0/30 | 16/30 | 0/30 |
 | Counting | 39/45 | 38/45 | 15/45 | 19/45 |
 
-The initial run helped trace some missing dates to a privacy filter. Subsequent runs changed the product and reused the same synthetic test questions. The ts3 date and correction scores were high, and overall accuracy, interval arithmetic, and counting fell short of the preregistered expectations. ts3 had 0 server errors in 1,080 full-run requests. ts1 stopped at 972 recorded answers with six HTTP 502 errors. It has no final score. After reviewing ts3, we restored the production deployment used for ts2. The archived scores are unchanged.
+The initial run exposed a date-handling defect in the product. Subsequent runs changed the product and reused the same synthetic test questions. The ts3 date and correction scores were high, and overall accuracy, interval arithmetic, and counting fell short of the preregistered expectations. ts3 had 0 server errors in 1,080 full-run requests. ts1 stopped at 972 recorded answers with six HTTP 502 errors. It has no final score. After reviewing ts3, we restored the production deployment used for ts2. The archived scores are unchanged.
 
 See [initial results](bench/scoreboard-v1/RESULT-product.txt), [fix2](bench/scoreboard-v1/fix2/RESULT.txt), [ts2](bench/scoreboard-v1/ts2/RESULT.txt), and [ts3](bench/scoreboard-v1/ts3/RESULT.txt). The historical ts3 result title retains an earlier version label. The [ts3 preregistration](bench/scoreboard-v1/ts3/PREREG.md) records what the final run measured.
 
