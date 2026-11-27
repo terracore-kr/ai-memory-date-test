@@ -58,6 +58,25 @@ The initial run exposed a date-handling defect in the product. Subsequent runs c
 
 See [initial results](bench/scoreboard-v1/RESULT-product.txt), [fix2](bench/scoreboard-v1/fix2/RESULT.txt), [ts2](bench/scoreboard-v1/ts2/RESULT.txt), and [ts3](bench/scoreboard-v1/ts3/RESULT.txt). The historical ts3 result title retains an earlier version label. The [ts3 preregistration](bench/scoreboard-v1/ts3/PREREG.md) records what the final run measured.
 
+## Moving memory (portability-v1)
+
+Does exported memory still answer correctly after it moves? We took the Mem0 and LangMem memories from trial 1 and changed none of the records. We changed only what often changes in a migration: the order the records come back in, and the timestamps exported with them. Same answer model, same 360 questions, three runs, majority vote. The move is simulated: the records were not loaded into another product.
+
+| Condition | Overall | Corrected facts | Date said | Which came first |
+|---|---:|---:|---:|---:|
+| Mem0, as exported | 292/360 | 57/60 | 9/30 | 28/30 |
+| Mem0, reordered by record id | 266/360 | 40/60 | 9/30 | 21/30 |
+| Mem0, with exported `created_at` shown | 293/360 | 58/60 | 11/30 | 29/30 |
+| LangMem, as exported | 290/360 | 45/60 | 24/30 | 25/30 |
+| LangMem, reordered by record id | 267/360 | 32/60 | 11/30 | 24/30 |
+| Original conversation kept by the customer | 300/360 | 60/60 | 16/30 | 30/30 |
+
+- All 467 Mem0 records carry `created_at` 2026-11-23, the day the memory was built. None matches the day the fact was said. With those timestamps shown, 57 of 90 "when did I say this" answers gave the build day.
+- The original-conversation condition sends the same messages before and after a move. It is not perfect either: 16/30 on dates.
+- Five of eight preregistered predictions held. The three that did not are listed in the result file.
+
+See [preregistration](bench/portability-v1/PREREG.md), [result](bench/portability-v1/RESULT.txt) and [note on this copy](bench/portability-v1/NOTE.md).
+
 ## Re-score offline
 
 Use Node.js 22 or newer. These commands read saved answers and need no model credentials.
@@ -68,6 +87,7 @@ npx tsx bench/scoreboard-v1/score-product.mts
 npx tsx bench/scoreboard-v1/fix2/score.mts
 npx tsx bench/scoreboard-v1/ts2/score.mts
 npx tsx bench/scoreboard-v1/ts3/score.mts
+npx tsx bench/portability-v1/score.mts
 ```
 
 The portable memory scorer reproduces answer scores and answer-based predictions. The original trial 1 result also records an audit of frozen memories and prompt inputs. The experimental store's construction code and frozen store are withheld. Preregistration copies omit internal links and implementation details. Predictions, scoring criteria, and recorded results are retained.

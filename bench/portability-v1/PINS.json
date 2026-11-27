@@ -1,0 +1,12 @@
+{
+ "common.mts": "2f53c0d52090a09ff57423c4ddad807afb8b5f3def07446be495f0be32e2c800",
+ "score.mts": "e3d094496b9b6f1a54eb5aa6dab45fd604c5fa7cd969a5f3caf016a9447b7261",
+ "PREREG.md": "2730a1fb5b033b34f91e3162613e5f52c55e4c7320e4b2750bbb30670f412471",
+ "../scoreboard-v1/common.mts": "3646cb74366725114ee7268059d76e5c9ebc196d96fef57e7459a2c1676ccd53",
+ "../scoreboard-v1/meter.mts": "eb26d700065c61d81528f5ef266d999869b55093a93373ff2a553b4cb166dcca",
+ "../scoreboard-v1/memory.tools.json": "c9428924a7a4d784f3a4299c8065b3132ca8ef9c51846dd25a9e05db1436f67d",
+ "../scoreboard-v1/answers-memory.jsonl": "c2854b7758ed47b8815259716d7a5b11aa9ceacd4595e175ff99fc364d4fe66e",
+ "../modelswap-v2/lib.mts": "184ae9e2750717b388828e239168e8d6e5b6f445ccd1e697d1b4cabeef11bcfe",
+ "../modelswap-v2/data.mts": "f05b42ba34482879d36106662074644908a8d6049eab1ad3d753f8571ee7884b",
+ "../scale-v1/data.mts": "7bfc9625a3111dd3830f272ee29c2b29259f34a48338e915f1638a1a3bcdfa99"
+}
