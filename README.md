@@ -30,6 +30,8 @@ The scorer prints the three counting questions separately. Two of them ("how man
 
 To share a score, open a [results issue](../../issues/new?template=submit-results.yml). Please do not rerun until you get a better number.
 
+**Prefer that we run it for you?** Give us a test endpoint and we run the full test and send a report: scores by question type and every wrong answer grouped by cause. Details: [belcore.xyz/audit](https://belcore.xyz/audit)
+
 The two tables measure different things. The memory comparison uses the same answer model for each store. The Belcore API test measures the production API end to end. Each score is a majority vote over three answers per question.
 
 ## Memory comparison
