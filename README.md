@@ -4,7 +4,19 @@ Does an AI memory system remember when something was said, not just what?
 
 15 synthetic customers, 360 questions covering corrections, dates, order, counting, and questions with no answer. Predictions were recorded before each corresponding run, including the ones that turned out wrong. Raw model answers and scoring code let you re-score the results or run the same questions on your own memory system.
 
+**Run it on your own memory system in about 10 minutes.** Write three functions, run one command. The reference full-transcript run costs about $0.71 with gpt-4.1-mini. [Jump to the steps](#test-your-own-memory-system).
+
 **What this is not.** It is not a ranking of memory products. It is not an independent evaluation: the test was written and run by the Belcore team, and Belcore is one of the systems tested. A passing score is not a security or compliance result.
+
+## Results from other systems
+
+No outside results yet. If you run the test on your memory system, [open a results issue](../../issues/new?template=submit-results.yml) with your raw answer file. We re-score it with the same scorer and add it here, with your system name and version, whatever the score.
+
+| System | Version | Overall | Date said | Corrected facts | Submitted by | Re-scored |
+|---|---|---:|---:|---:|---|---|
+| *(yours here)* | | | | | | |
+
+Results in this table are self-run by each submitter on their own setup. They are not comparable to each other as a ranking.
 
 ## Test your own memory system
 
@@ -99,5 +111,12 @@ The portable memory scorer reproduces answer scores and answer-based predictions
 - The [synthetic conversations](bench/scoreboard-v1/sessions.json) and questions in [dataset A–C](bench/modelswap-v2/data.mts) and [dataset D–O](bench/scale-v1/data.mts) constitute the test.
 - The [Mem0 and LangMem builder](bench/scoreboard-v1/build_tools.py) uses Python 3.10+, `mem0ai==2.2.1`, `langmem==0.0.30`, and `langchain-openai`. Run paid experiments in a fresh copy so the original artifacts are preserved. Use a dry run before making model calls. [Open-tool answer runner](bench/scoreboard-v1/run-memory.mts) accepts `--dry-run` and uses the included Mem0/LangMem frozen output. The runners use `tsx`, `js-tiktoken`, and the `ai` SDK.
 - The [initial API runner](bench/scoreboard-v1/run-product.mts) and [ts3 runner](bench/scoreboard-v1/ts3/run.mts) send the test to an API. Use your own test key through `BELCORE_API_KEY`. Historical variants document request shapes and scoring. A live API replay can measure today's deployment.
+
+## Coming next
+
+- **Long histories.** The same question types over three years of dated conversation per customer.
+- **Changes that take effect later.** "Family drivers only, starting next month": does the system answer the old value before that date and the new value after it?
+
+Each new test gets its preregistration posted here before it runs.
 
 MIT licensed. See [LICENSE](LICENSE).
